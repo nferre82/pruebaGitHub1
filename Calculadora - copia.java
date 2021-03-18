@@ -3,7 +3,8 @@ package calculadora;
 public class Calculadora {
 	private int num1;
 	private int num2;
-	private int num4;
+	private int num3;
+
 	public Calculadora(int a, int b) {
 		num1 = a;
 		num2 = b;
